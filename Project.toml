@@ -1,0 +1,8 @@
+name = "ina219"
+uuid = "ef567470-2508-11ec-9e49-c372b836c0f3"
+authors = ["maik.paetzold@akra.de"]
+version = "0.1.0"
+
+[deps]
+BaremetalPi = "3a90a9a9-52f9-452b-94bd-193d585bd84f"
+StructIO = "53d494c1-5632-5724-8f4c-31dff12d585f"
